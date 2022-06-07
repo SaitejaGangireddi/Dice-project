@@ -32,11 +32,11 @@ player2.setAttribute("src", dicesource);
 
 if(dice1>dice2)
 {
-  document.querySelectorAll("h1")[0].innerHTML=concat1+" wins. CONGRATULATIONS. Refresh to play again"
+  document.querySelectorAll("h1")[0].innerHTML=concat1+" wins. Congratulations"
 }
 else if(dice1<dice2)
 {
-  document.querySelectorAll("h1")[0].innerHTML=concat2+" wins. CONGRATULATIONS. Refresh to play again"
+  document.querySelectorAll("h1")[0].innerHTML=concat2+" wins. Congratulations"
 }
 else
 {
