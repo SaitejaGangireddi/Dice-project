@@ -1,0 +1,23 @@
+h1 {
+  font-family: Garamond, serif;
+  color: Blue;
+  font-size: 75px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Archivo Black';
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+body{
+  background-color:  black;
+  background-image: url("images/dicebg.webp");
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
